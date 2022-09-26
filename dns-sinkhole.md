@@ -34,7 +34,7 @@ There are several ways to create a DNS sinkhole:
 
 The result of any of these methods is that the request for the original website is diverted to another (often a controlled) IP address for security analysis.
 
->Let's look at a case where the `name.example` domain is known to be malicious. An ISP administrator has configured one of their high-level DNS servers to provide DNS sinkholing, and have included `name.example` as one of the websites to be sinkholed. Now, when the client computer queries the DNS server for the IP address of `name.example`, the DNS server returns a false result. The client computer connects to the sinkhole at `2.2.2.2` rather than name.example at `1.1.1.1`.
+>Let's look at a case where the `name.example` domain is known to be malicious. An ISP administrator has configured one of their high-level DNS servers to provide DNS sinkholing, and have included `name.example` as one of the websites to be sinkholed. Now, when the client computer queries the DNS server for the IP address of `name.example`, the DNS server returns a false result. The client computer connects to the sinkhole at `2.2.2.2` rather than `name.example` at `1.1.1.1`.
 
 
 <h2 id="applications">Applications for DNS Sinkholing</h2>
