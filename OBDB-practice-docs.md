@@ -97,8 +97,8 @@ Gets a list of brewery entries that can be filtered by various parameters. All p
     <li><code>contract</code> - A brewery that uses another brewery’s equipment.
     <li><code>proprietor</code> - Similar to contract brewing but refers more to a brewery incubator.
     <li><code>closed</code> - A location which has been closed.</td></tr>
-<tr><td><code>page</td><td>The offset or page of breweries to return</td><td>string</td><td /></tr>
-<tr><td><code>per_page</td><td>Number of breweries to return each call</td><td>string</td><td>Default per page is 20. Max per page is 50.</td></tr>
+<tr><td><code>page</td><td>The offset or page of breweries to return</td><td>integer</td><td /></tr>
+<tr><td><code>per_page</td><td>Number of breweries to return each call</td><td>integer</td><td>Default per page is 20. Max per page is 50.</td></tr>
 </table>
 
 ##### Sorting
