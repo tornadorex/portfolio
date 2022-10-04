@@ -254,7 +254,7 @@ Returns one or more random breweries from the database.
 
 ### Query Parameters
 <table><tr><th>Parameter</th><th>Description</th><th>Type</th><th>Required</th><th>Notes</th></tr>
-<tr><td><code>size</td><td>The number of breweries to return with each call</td><td>string</td><td>Optional</td><td>Default is 1. Max per page is 50.</td></tr>
+<tr><td><code>size</td><td>The number of breweries to return with each call</td><td>integer</td><td>Optional</td><td>Default is 1. Max per page is 50.</td></tr>
 </table>
 
 ### Sample Request
@@ -335,7 +335,7 @@ where {search} is the search term.
 
 #### Query Parameters
 <table><tr><th>Parameter</th><th>Description</th><th>Type</th><th>Required</th><th>Notes</th></tr>
-<tr><td><code>per_page</td><td>Number of breweries to return each call</td><td>string</td><td>Optional</td><td>Default per page is 20. Max per page is 50.</td></tr>
+<tr><td><code>per_page</td><td>Number of breweries to return each call</td><td>integer</td><td>Optional</td><td>Default per page is 20. Max per page is 50.</td></tr>
 <tr><td><code>query</code></td><td>The search term to return breweries</td><td>string</td><td>Required</td><td>You can use underscores or url encoding for spaces.</td></tr>
 </table>
 
