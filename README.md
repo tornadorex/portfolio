@@ -4,4 +4,4 @@ Sample files for the portfolio, because WordPress doesn't like some of them and 
 <https://www.natebee.com/portfolio/>
 
 ----------------------------
-&copy;2022 Nathaniel Barrett
+&copy;2025 Nathaniel Barrett
