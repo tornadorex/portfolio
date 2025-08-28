@@ -1,6 +1,6 @@
 # How to Partition Your Hard Drive in Windows 11
 
-Partitioning a hard drive in Windows 11 is a simple process, but not without the risk of data loss. **Before you begin, back up your files.**
+Why partition a hard drive? You may want the option to dual-boot, or better organize your data, or have an easier time backing up your data. You may even want to run different file systems on a single disk. Regardless your reason, partitioning a hard drive in Windows 11 is a simple process, but not without the risk of data loss. **Before you begin, back up your files.**
 
 1. Press the **Windows** key and search for "partition".
 
@@ -35,6 +35,3 @@ Partitioning a hard drive in Windows 11 is a simple process, but not without the
 13. Click **Next**, then click **Finish**. The new partition opens in a new File Explorer window when it's ready.
 
 ![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_final-state.png)
-
---------------
-
