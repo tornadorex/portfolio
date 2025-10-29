@@ -15,19 +15,19 @@ This guide was written using the desktop version, so for mobile users your milea
 
 When you’re ready to get started, open Obsidian. When it first opens, you’re prompted to add a new vault. A vault is just a folder where Obsidian stores your notes, so you have the option to create a new empty vault or use an existing folder.
 
-![](images/obsidian-start-screen.png)
+![](https://www.natebee.com/portfolio/writing/images/obsidian-start-screen.png)
 
 ### Create a New Empty Vault
 
 1. Click **Create**.
 2. Enter the **Vault name**.
 
-![](images/new-empty-vault.png)
+![](https://www.natebee.com/portfolio/writing/images/new-empty-vault.png)
 
 3. Click **Browse** to select where you want the vault to be created.
 4. Click **Create**. Obsidian opens the new vault with a Welcome note and a Graph view.
 
-![](images/new-vault-created.png)
+![](https://www.natebee.com/portfolio/writing/images/new-vault-created.png)
 
 ### Use an Existing Folder
 
@@ -35,7 +35,7 @@ When you’re ready to get started, open Obsidian. When it first opens, you’re
 2. Use the file browser to select the folder you want to use.
 3. Click **Select** or **Open** (this varies by platform). Obsidian opens the new vault with an empty tab.
 
-![](images/new-vault-from-folder.png)
+![](https://www.natebee.com/portfolio/writing/images/new-vault-from-folder.png)
 
 
 ## Create a New Note
@@ -46,14 +46,14 @@ When you’re ready to get started, open Obsidian. When it first opens, you’re
 
 Obsidian supports Markdown syntax for formatting your text. If you’re unfamiliar with Markdown, I've put together a [cheat sheet for the basics](markdown-reference.html). Or if you prefer, you can select text and format it with keyboard shortcuts, or right click and select the formatting you want from the **Format** menu.
 
-![](images/formatting-from-right-click.png)
+![](https://www.natebee.com/portfolio/writing/images/formatting-from-right-click.png)
 
 
 ## Link to Other Notes
 
 Obsidian supports wikilinks sytax&mdash;to link to another note, type its name surrounded by double brackets, like so: `[[my first note]]`. As you type, Obsidian tries to autofill with names that match to make the linking process easier.
 
-![](images/linking-to-an-existing-note-autofill.png)
+![](https://www.natebee.com/portfolio/writing/images/linking-to-an-existing-note-autofill.png)
 
 To create a link to a note that has different text appear as the hyperlink, use this syntax: `[[name of the note|the text you want displayed]]`.
 
