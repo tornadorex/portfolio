@@ -4,27 +4,27 @@ Why partition a hard drive? You may want the option to dual-boot, or better orga
 
 1. Press the **Windows** key and search for "partition".
 
-![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_search.png)
+![](https://www.natebee.com/portfolio/writing/images/partition_search.png)
 
 2. Select **Create and format hard drive partitions** to open the Disk Management tool.
 
-![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_disk-management.png)
+![](https://www.natebee.com/portfolio/writing/images/partition_disk-management.png)
 
 3. Right-click the volume you want to partition and select **Shrink Volume**.
 
-![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_right-click.png)
+![](https://www.natebee.com/portfolio/writing/images/partition_right-click.png)
 
 4. Enter the size you want to allocate for this partition, labeled in the UI as **Enter the amount of space to shrink in MB**. This means that if you want a 100 GB partition, enter 100000.
 
-![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_shrink-dialog.png)
+![](https://www.natebee.com/portfolio/writing/images/partition_shrink-dialog.png)
 
 5. Click **Shrink**. The new partition shows up as Unallocated space in the disk visualizer.
 
-![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_unallocated-space.png)
+![](https://www.natebee.com/portfolio/writing/images/partition_unallocated-space.png)
 
 6. Right-click the partition and select **New Simple Volume** to open the New Simple Volume Wizard.
 
-![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_new-simple-volume.png)
+![](https://www.natebee.com/portfolio/writing/images/partition_new-simple-volume.png)
 
 7. Follow the wizard with the settings you want for this new partition. This guide will stick to the defaults. Click **Next** to start.
 8. Enter the **Simple volume size in MB**. By default, the wizard matches the maximum disk space.
@@ -34,4 +34,4 @@ Why partition a hard drive? You may want the option to dual-boot, or better orga
 12. Enter a Volume label for the partition.
 13. Click **Next**, then click **Finish**. The new partition opens in a new File Explorer window when it's ready.
 
-![](https://www.natebee.com/portfolio/wp-content/uploads/2025/06/partition_final-state.png)
+![](https://www.natebee.com/portfolio/writing/images/partition_final-state.png)
