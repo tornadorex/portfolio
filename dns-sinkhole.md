@@ -30,7 +30,7 @@ There are several ways to create a DNS sinkhole:
 
 * You can activate it as a security feature on some firewalls or proxies.
 * You can alter the host files on a client machine.
-* You can set up a [Pi-hole](https://docs.pi-hole.net/)
+* You can set up a [Pi-hole](https://docs.pi-hole.net/).
 * Some ISPs and domain registrars configure their DNS servers to provide this service to protect their clients.
 
 The result of any of these methods is that the request for the original website is diverted to another (often a controlled) IP address for security analysis.
