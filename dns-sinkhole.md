@@ -42,17 +42,13 @@ The result of any of these methods is that the request for the original website 
 DNS Sinkholing has several applications for which it proves useful.
 
 1. **Blocking drive-by downloads**. A drive-by happens when an attacker has infected a legitimate website with a malicious hidden link that forces the user's browser to download and execute malicious code without their knowledge or permission. All it takes to become infected is to access the website in question. DNS sinkholing can block the malicious hidden link and protect the client computer from becoming infected by a drive-by download.
-
 2. **Blocking ads, adware, spyware, and other unwanted traffic** by redirecting that traffic elsewhere.
-
 3. **Blocking command & control traffic for botnets**. If a computer is infected, it will try to connect to a C&C server for further malicious commands. By using a DNS Sinkhole to redirect traffic, the connection is never established. An organization can not only prevent the botnet from infecting more systems, but they can also consult system logs and identify the infected machines trying to make C&C connections.
 
 ## Summary
 
 * DNS is the Domain Name Service, the system responsible for translating human-readable domain names like `name.example` into IP addresses like `1.1.1.1`.
-
 * A DNS Sinkhole is a configuration where a DNS query returns a false result. Instead of mapping `name.example` to the IP address `1.1.1.1`, it tells the client `name.example` is at `2.2.2.2`.
-
 * DNS sinkholing has several security applications:
   * blocking known malicious sites
   * blocking malware distribution
