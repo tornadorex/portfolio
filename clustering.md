@@ -1,9 +1,3 @@
----
-layout: default
-title: DNS Sinkhole
-gh: clustering.md
----
-
 # Clustering Algorithms
 
 The Data Platform uses two different methods to divide a data network into clusters. This article provides an overview of each method and how you can choose one to use when generating a network.
