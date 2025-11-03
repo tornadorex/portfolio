@@ -1,4 +1,4 @@
-# Prompt Enginerring: Proofreader
+# Prompt Engineering: Proofreader
 
 The following prompt can be used to proofread your technical writing. Just paste the text you want after the {text}: at the bottom or upload an attachment and tell it to use that. If you want to dive deeper on anything, just tell it which section you want more of.
 
