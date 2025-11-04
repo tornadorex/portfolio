@@ -4,4 +4,4 @@ Sample files for my portfolio, because GitHub does a better job of displaying th
 <https://www.natebee.com/portfolio/>
 
 ----------------------------
-&copy;2025 Nathaniel Barrett
+&copy;2025 Nate Barrett
