@@ -53,7 +53,9 @@ The first step is to generate an SSH key on your local machine. You'll do this u
 1. Open Terminal or Git Bash.
 2. Paste the following command, substituting the email address you use to log in to GitHub for the example:
 
-    `ssh-keygen -t ed25519 -C "your_email@example.com"`
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
 
 3. Press Enter to accept the default file location to save the key pair&mdash;a hidden folder called `.ssh` in your default user directory.
 4. When prompted, enter a passphrase. If you leave the prompt empty, no passphrase will be used (not recommended).
@@ -71,11 +73,15 @@ Under normal circumstances, you'll be prompted to enter the passphrase from step
 
 1. Start the SSH agent with the following command:
 
-    `eval "$(ssh-agent -s)"`
+```
+eval "$(ssh-agent -s)"
+```
 
 2. Add your SSH private key to the SSH agent:
 
-    `ssh-add ~/.ssh/id_ed25519`
+```
+ssh-add ~/.ssh/id_ed25519
+```
 
 3. Enter the passphrase.
 
